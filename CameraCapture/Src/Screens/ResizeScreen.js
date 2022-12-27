@@ -42,7 +42,7 @@ const ResizeScreen = ({route, navigation}) => {
         <View style={styles.camera}>
           <Image
             source={{uri: imagePath}}
-            resizeMode="stretch"
+            resizeMode="contain"
             style={{flex: 1}}
           />
         </View>
