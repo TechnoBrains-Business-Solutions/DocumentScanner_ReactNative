@@ -1,6 +1,13 @@
 # DocumentScanner_ReactNative
 Scan object and document though camera and save image in phone gallary 
 
+
+
+
+https://user-images.githubusercontent.com/119862218/209632089-b4d73734-444e-49b2-815f-80df982ca7f5.mp4
+
+
+
 <h2><b>Core Features</b></h2>
 <ul>
 	<li>Auto scan object and document </li>
